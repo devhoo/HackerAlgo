@@ -7,6 +7,8 @@ public class GreedyAlgo {
 		System.out.println("Hello !!");
 		System.out.println("Hi :)");
 		System.out.println("GitHub");
+		System.out.println("Hello surajit !!");
+		
 	}
 
 }
