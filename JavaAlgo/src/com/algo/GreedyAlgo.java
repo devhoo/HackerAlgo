@@ -9,6 +9,8 @@ public class GreedyAlgo {
 		System.out.println("GitHub");
 		System.out.println("Hello surajit !!");
 		
+		System.out.println("Has!!");
+		
 	}
 
 }
